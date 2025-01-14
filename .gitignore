@@ -1,0 +1,46 @@
+# Python-related files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# macOS system files
+.DS_Store
+
+# Build and distribution directories
+build/
+dist/
+*.spec
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# JSON database (only if it contains user-specific data, remove this if it's an example file)
+study_history.json
+
+# IDE-specific files
+.idea/
+.vscode/
+*.iml
+
+# Byte-compiled files
+*.egg-info/
+.eggs/
+
+# PyInstaller artifacts
+*.manifest
+*.spec
+
+# General backup files
+*.bak
+*.swp
+
+# Environment variables (if any)
+.env
